@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "muffet idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "muffet left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "muffet down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "muffet up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "muffet right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/muffet",
+	"position": [
+		300,
+		400
+	],
+	"healthicon": "muffet",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		56,
+		123
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}
